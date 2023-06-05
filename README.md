@@ -12,3 +12,7 @@ cd Rank-Card
 pip install -r requirements.txt
 ``` 
 Once all the commands are ran. Start up 'main.py'
+
+## Example
+
+ ![Example](https://github.com/gun4qmm7h/Rank-Card/blob/main/Rank.png) 
